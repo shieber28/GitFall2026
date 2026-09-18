@@ -1,4 +1,4 @@
-## Section 5.1 - Markdown 
+## Section 5.1 - Week 1 Practical Answers
 
 ### Section 3.1
 1. To navigate to my home directory, I typed... cd/Users/shieb
@@ -11,4 +11,3 @@
 2. There are 19509 lines in the file BeeSpecies which I found by typing... wc-l BeeSpecies.txt
 3. There are 195 words which I found by typing... cd/Users/shieb/OneDrive- VirginiaTech/CompBio/IntroBiolComp-2026/Unix/DataFiles and then... wc -w CodonTable.tsv
 4. The last line/last codon of the file was TTT Phe F, which I found through... tail -n 1 CodonTable.tsv
-
