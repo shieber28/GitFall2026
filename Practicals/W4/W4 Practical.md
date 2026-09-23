@@ -6,4 +6,4 @@ For the about you section I first wrote out my code in a Jupyter notebook to mak
 
 ## 6.2 Codon to amino acid 
 
-For the codon to amino acid section, I wrote my code out in a Jupyter notebook and copied it here into Git. To see the Jupyter notebook reference...
+For the codon to amino acid section, I wrote my code out in a Jupyter notebook and copied it here into Git. To see the Jupyter notebook reference W4 Practical.ipynb. This contains my code for section 6.1 as well. 
