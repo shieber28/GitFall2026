@@ -11,6 +11,17 @@ $ git pull
 
 To see the markdown look for the Hieber_P1.md 
 
+>[!NOTE]
+>In the future please use back ticks (i.e \`) to enclose code blocks. For example
+> ```bash
+> git pull
+> ```
+> Instead of
+>
+>git pull
+>
+>See the guide for Week 3 if you're unsure of how to do this (or look at the code of this document to see how I created a code box above). 
+
 ## Section 5.2 - Semicolon-delimited to comma-delimited
 
 For this section I created a script which should take any files a person wants and change all semicolons in the file to commas 
@@ -18,3 +29,6 @@ For this section I created a script which should take any files a person wants a
 The variables $1 and $2 should make this possible, so a person can enter whatever files they chose 
 
 To see the script look for the semicolon_csv_converter.sh
+
+>[!NOTE]
+> Great use of two arguments! 
