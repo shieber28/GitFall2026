@@ -8,4 +8,4 @@ For the about you section I first wrote out my code in a Jupyter notebook to mak
 
 For the codon to amino acid section, I wrote my code out in a Jupyter notebook and copied it here into Git. To see the Jupyter notebook reference W4 Practical.ipynb. This contains my code for section 6.1 as well. 
 >[!NOTE]
->In the future please use code boxes to paste your code in your main answers file. 
+> Your code here does the job. A more generalizable solution would have been to create a dictionary with all codons and their corresponding amino acids, and then searching it for your specific codon(s). This being said, good job coding up your solution on your own :-). 
