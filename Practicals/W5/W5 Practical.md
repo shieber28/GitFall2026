@@ -26,3 +26,27 @@ else:
   leave cake in for another 5 minutes and check again 
   
 Enjoy! 
+
+## 4.2
+My pseudo code for playing fizz buzz is as follows...
+
+x is equal to the input in a range 
+
+if x is divisible by 3 
+
+  print ("fizz")
+
+if x is divisible by 5 
+
+  print ("buzz")
+
+if x is divisible by 3 and 5 
+
+  print("fissbuzz")
+
+else
+
+  print nothing 
+
+After writing my pseudocode I worked on a python program which can be found in the W5 practical folder 
+
