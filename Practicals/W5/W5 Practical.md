@@ -48,5 +48,5 @@ else
 
   print nothing 
 
-After writing my pseudocode I worked on a python program which can be found in the W5 practical folder 
+After writing my pseudocode I worked on a python program which can be found in the W5 folder 
 
