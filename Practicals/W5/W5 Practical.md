@@ -27,7 +27,7 @@ else:
   
 Enjoy! 
 
-## 4.2
+## 4.2 Fizz Buzz
 My pseudo code for playing fizz buzz is as follows...
 
 x is equal to the input in a range 
