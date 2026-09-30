@@ -50,3 +50,6 @@ else
 
 After writing my pseudocode I worked on a python program which can be found in the W5 folder 
 
+## 4.3 GC Content
+My python code for the GC content section can be found in the W5 folder 
+
