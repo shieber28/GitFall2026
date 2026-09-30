@@ -21,7 +21,7 @@ if knife comes out clean
 
   take cake out of oven and leave to cool
   
-else: 
+else
 
   leave cake in for another 5 minutes and check again 
   
