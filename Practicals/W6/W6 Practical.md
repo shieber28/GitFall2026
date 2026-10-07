@@ -27,3 +27,8 @@ The code ```codon = mRNA[i:(i+3)]``` takes a 3 letter sequence and saves it as a
 
 ```return "".join(aa_sequence)``` converts the amino acid sequnce list from a seperated list, into a line of all the letters pushed together
 
+### 2. 
+Part 2 of this section can be found under the W6 folder 
+
+## 5.2 Gobbler Proteins 
+The notebook for this section can be found under the w6 foler
