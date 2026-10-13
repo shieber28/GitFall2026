@@ -53,3 +53,5 @@ After writing my pseudocode I worked on a python program which can be found in t
 ## 4.3 GC Content
 My python code for the GC content section can be found in the W5 folder 
 
+>[!NOTE]
+>We discussed this a week ago, but the trick here was to do a different operation for lines with sequence headers (i.e. names) and for lines with sequences. You could achieve this either using if/then statements or by performing different operations on odd and even lines. To get the first part of the name, you could index the list obtained by the `.split()` method, for example `line.split()[12]`.
