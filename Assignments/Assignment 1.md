@@ -44,9 +44,9 @@ To find how many times isolation was mentioned I used the exact same code, but I
 
 I then repeated these steps for "sterility".
 
-*__D__ I used conda to install the program wordcloud using ```conda install conda-forge:: wordcloud```. However, once I went to use the module it didn't work in bash. However, I would have used ```wordcloud_cli --text mytext.txt --imagefile wordcloud.png``` to create my images. 
+* __D__ I used conda to install the program wordcloud using ```conda install conda-forge:: wordcloud```. However, once I went to use the module it didn't work in bash. However, I would have used ```wordcloud_cli --text mytext.txt --imagefile wordcloud.png``` to create my images. 
 
-*__E__ Although I wasn't able to create the wordclouds, by looking through the text in the files I'd created, it seems he went over sterility a lot in its relation to the origin of species, but maybe lacked in other areas, or in what it's argued, an explanation of how new species were formed. However, I'd probably get a much more conclusive answer to this question if I was able to get my word clouds to work.   
+* __E__ Although I wasn't able to create the wordclouds, by looking through the text in the files I'd created, it seems he went over sterility a lot in its relation to the origin of species, but maybe lacked in other areas, or in what it's argued, an explanation of how new species were formed. However, I'd probably get a much more conclusive answer to this question if I was able to get my word clouds to work.   
 
 ## 3. Twelve days of Christmas 
 My script for the code for the 12 days of Christmas is as follows...
