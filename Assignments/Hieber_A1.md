@@ -26,7 +26,7 @@ with open("IntroBiolComp-2026/Assignment1/Gesquiere2011_data.csv", "r") as hormo
 	
 	print m_count
 ```
-This script starts my importing the package using ```import```. 
+This script starts by importing the package using ```import```. 
 
 Then it uses ```with open``` to open and read the file ```Gesquiere2011_data.csv``` as save it as hormone levels. 
 
