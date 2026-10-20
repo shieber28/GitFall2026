@@ -34,6 +34,7 @@ Next, the text is read and the variable that you can enter in ```$1``` is counte
 
 At the end it is printed out using ```print```. 
 * __D__
+  For part D I was unable to create a successful script that created the formatted output we were looking for, but I was looking to use a for loop that read the data as dictionaries using the ```csv.Dictreader``` function. I was thinking that the times the values appeared, each time 1 more value would get appended to a list, that I had previously initialized, and that list would correspond with the overall ID.  
 
 ## 2. Mining The Origin of Species
 * __A.__ I used the code ``` curl -o origin_species.txt https://www.gutenberg.org/cache/epub/1228/pg1228.txt``` to download and name my file as origin_species.txt
