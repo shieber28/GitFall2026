@@ -17,7 +17,7 @@ In this code I opened the data file using the ```with open``` function.
 
 The text which I called ```hormone levels``` is then read and the number of times 8 and 22 appear is counted and then printed. 
 
-* __C.__ My script for code is as follows
+* __C.__ My script for the code is as follows
 ```
 import re
 with open("IntroBiolComp-2026/Assignment1/Gesquiere2011_data.csv", "r") as hormone_levels:
