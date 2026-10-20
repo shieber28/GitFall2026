@@ -13,6 +13,10 @@ with open("IntroBiolComp-2026/Assignment1/Gesquiere2011_data.csv", "r") as hormo
     print(m1_count)
     print(m2_count)
   ```
+In this code I opened the data file using the ```with open``` function. 
+
+The text which I called ```hormone levels``` is then read and the number of times 8 and 22 appear is counted and then printed. 
+
 * __C.__ My script for code is as follows
 ```
 import re
@@ -60,5 +64,6 @@ with open ("IntroBiolComp-2026/Assignment1/12_Days_Lyrics", "w") as f:
         for c in range(i, -1, -1):
             print(gifts[c])
 ```
+To begin my code I initialized the values for gifts and the days. From here I opened a new file to write my results into, this file would be located in the IntroBiolComp folder, in a folder called Assignment 1. Then, with in the range of 12 (for the twelve days) the for loop iterates through and prints out on the __ day of Christmas... and the day (1-12) is in that blank. Then given the i, the corresponding gifts are printed out, counting backwards from whatever value the day is. All the lyrics end up getting printed out at the end. 
 ## 4. Submission instructions 
 I added all related files to this folder and used git push to push files to remote repository. 
