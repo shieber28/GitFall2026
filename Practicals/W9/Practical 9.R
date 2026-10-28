@@ -27,7 +27,7 @@ for (file in all_files) {
   results_df <- 
 }
 
-#from here I got very stuck, I wanted to loop through my all_files and apply the information that got to the data frame I'd set up 
+#from here I got very stuck, I wanted to loop through my all_files and apply the information that I got to the data frame I'd set up 
 
 data.frame(all_files)
 
